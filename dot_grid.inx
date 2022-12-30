@@ -3,7 +3,6 @@
   <_name>Dot Grid</_name>
   <id>Dot_Grid.Grid</id>
   <dependency type="executable" location="extensions">dot_grid.py</dependency>
-  <dependency type="executable" location="extensions">inkex.py</dependency>
   <param name="dot_diameter"    type="float" min="0.01" max="10" _gui-text="Dot Diameter (mm):">0.3</param>
   <param name="col_spacing"    type="float" min="1.0" max="10" _gui-text="Row Spacing (mm):">5.0</param>
   <param name="row_spacing"    type="float" min="1.0" max="10" _gui-text="Column Spacing (mm):">5.0</param>  
